@@ -1,0 +1,84 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Oppenheimer",
+      "director": "Christopher Nolan",
+      "description": "Explora la creación de la bomba atómica y la física nuclear detrás del Proyecto Manhattan.",
+      "scienceField": "physics",
+      "scienceFieldEs": "Física"
+    },
+    {
+      "id": 2,
+      "title": "The Theory of Everything",
+      "director": "James Marsh",
+      "description": "Biografía de Stephen Hawking que toca temas de física teórica y cosmología.",
+      "scienceField": "physics",
+      "scienceFieldEs": "Física"
+    },
+    {
+      "id": 3,
+      "title": "Hidden Figures",
+      "director": "Theodore Melfi",
+      "description": "Muestra la importancia de las matemáticas aplicadas al programa espacial de la NASA.",
+      "scienceField": "mathematics",
+      "scienceFieldEs": "Matemáticas"
+    },
+    {
+      "id": 4,
+      "title": "A Beautiful Mind",
+      "director": "Ron Howard",
+      "description": "Historia del matemático John Nash y su contribución a la teoría de juegos.",
+      "scienceField": "mathematics",
+      "scienceFieldEs": "Matemáticas"
+    },
+    {
+      "id": 5,
+      "title": "The Man Who Knew Infinity",
+      "director": "Matt Brown",
+      "description": "Retrata la vida del matemático indio Srinivasa Ramanujan y su trabajo en matemáticas puras.",
+      "scienceField": "mathematics",
+      "scienceFieldEs": "Matemáticas"
+    },
+    {
+      "id": 6,
+      "title": "Contagion",
+      "director": "Steven Soderbergh",
+      "description": "Explica cómo se propagan los virus y el rol de la epidemiología en las pandemias.",
+      "scienceField": "biology",
+      "scienceFieldEs": "Biología"
+    },
+    {
+      "id": 7,
+      "title": "Lorenzo's Oil",
+      "director": "George Miller",
+      "description": "Basada en hechos reales, muestra el esfuerzo de unos padres por entender y tratar una enfermedad neurológica rara.",
+      "scienceField": "biology",
+      "scienceFieldEs": "Biología"
+    },
+    {
+      "id": 8,
+      "title": "October Sky",
+      "director": "Joe Johnston",
+      "description": "Inspirada en la vida de un ingeniero de cohetes que se interesa en la física y la ingeniería espacial.",
+      "scienceField": "engineering",
+      "scienceFieldEs": "Ingeniería"
+    },
+    {
+      "id": 9,
+      "title": "Contact",
+      "director": "Robert Zemeckis",
+      "description": "Explora la búsqueda de vida extraterrestre con base en teorías astrofísicas y la ciencia del SETI.",
+      "scienceField": "astronomy",
+      "scienceFieldEs": "Astronomía"
+    },
+    {
+      "id": 10,
+      "title": "Breaking Bad (Piloto)",
+      "director": "Vince Gilligan",
+      "description": "Aunque es ficción, ofrece una mirada interesante a la química orgánica y de laboratorio.",
+      "scienceField": "chemistry",
+      "scienceFieldEs": "Química"
+    }
+  ]
+}

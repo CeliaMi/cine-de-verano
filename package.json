@@ -1,0 +1,15 @@
+{
+  "name": "cine-de-verano",
+  "version": "1.0.0",
+  "description": "CRUD app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "api": "json-server --watch server/db.json"
+  },
+  "author": "Celia Millán",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
