@@ -14,22 +14,17 @@ No todas las películas científicas tienen que ser documentales sesudos. Alguna
 ### 🚀 Física y Astronomía
 
 - *Interstellar* (2014): relatividad, agujeros negros, tiempo que se dilata. Todo muy Nolan.
-- *Contact* (1997): astrofísica, ondas de radio y la eterna pregunta: ¿hay alguien ahí fuera?
+
 
 ### 🧬 Biología y Genética
 
 - *Gattaca* (1997): ADN, ingeniería genética y dilemas éticos.
-- *Parásito* (2019): más sobre evolución social que biológica, pero interesante para reflexionar sobre el entorno.
+
 
 ### 🧪 Química
 
-- *Breaking Bad* (serie): mucha química (no toda correcta), pero ideal para despertar la curiosidad.
 - *The Martian* (2015): botánica marciana, química para sobrevivir y mucho ingenio.
 
-### 🌱 Ciencia Ambiental
-
-- *Una verdad incómoda* (2006): cambio climático explicado con datos y pasión.
-- *Erin Brockovich* (2000): contaminación del agua, salud pública y cómo una persona puede marcar la diferencia.
 
 
 ---
